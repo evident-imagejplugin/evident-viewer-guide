@@ -26,11 +26,3 @@
 - If the **plugins** folder already contains an **OlympusViewer** folder, delete the existing folder before copying.
 
 ![enter image description here](https://raw.githubusercontent.com/evident-imagejplugin/evident-viewer-guide/refs/heads/main/EvidentViewer_Installation_Guide_win_pic_3.png)
-
-
-
----
-
-  
-
-Now your OlympusViewer should be ready to use with ImageJ.
