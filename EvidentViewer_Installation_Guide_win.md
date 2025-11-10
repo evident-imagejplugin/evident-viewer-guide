@@ -1,28 +1,26 @@
-# OlympusViewer Installation Guide
+# EvidentViewer Installation Guide
 
   
 
-## Steps to Install OlympusViewer
+## Steps to Install EvidentViewer
 
   
 
-1. Download the **OlympusViewer-win2_4_1.zip**.
+1. Download the **EvidentViewer-win.exe**.
 
-2. Extract the zip file.
-
-3. Execute **OlympusViewer-win.exe**. This file is in a self-extracting format.
+2. Execute **EvidentViewer-win.exe**. This file is in a self-extracting format.
    
 ![enter image description here](https://raw.githubusercontent.com/evident-imagejplugin/evident-viewer-guide/refs/heads/main/EvidentViewer_Installation_Guide_win_pic_1.png)
 
-4. If you agree to our end-user license agreement, extract it to your specified folder.
+3. If you agree to our end-user license agreement, extract it to your specified folder.
    
 ![enter image description here](https://raw.githubusercontent.com/evident-imagejplugin/evident-viewer-guide/refs/heads/main/EvidentViewer_Installation_Guide_win_pic_2.png)
 
-5. Unzip the **OlympusViewer-package.zip**.
+4. Unzip the **EvidentViewer-package.zip**.
 
-6. Install the **VS2017 redistribution package**. If you use a 64-bit OS, install **VC_redist.x64.exe**.
+5. Install the **VS2017 redistribution package**. If you use a 64-bit OS, install **VC_redist.x64.exe**.
 
-7. Copy the **OlympusViewer** folder from the **OlympusViewer-package** folder to the **plugins** folder of your ImageJ directory.
-- If the **plugins** folder already contains an **OlympusViewer** folder, delete the existing folder before copying.
+6. Copy the **EvidentViewer** folder from the **EvidentViewer-package** folder to the **plugins** folder of your ImageJ directory.
+- If the **plugins** folder already contains an **EvidentViewer** folder, delete the existing folder before copying.
 
 ![enter image description here](https://raw.githubusercontent.com/evident-imagejplugin/evident-viewer-guide/refs/heads/main/EvidentViewer_Installation_Guide_win_pic_3.png)
