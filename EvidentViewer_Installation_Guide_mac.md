@@ -26,7 +26,7 @@
    ```
 
 6. During the installation, the EULA will appear. Scroll using the ‘↓’ key, and type ‘y’ to agree and continue.
-7. After installation, a new folder named **OlympusViewer-VerLatest** will be created.
+7. After installation, a new folder named **EvidentViewer-VerLatest** will be created.
 8. Copy the **EvidentViewer-VerLatest** folder to the **plugins** folder of your ImageJ directory.
 - If the **plugins** folder already contains an **EvidentViewer-VerLatest** folder, delete the existing folder before copying.
 
