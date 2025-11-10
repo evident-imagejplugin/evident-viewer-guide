@@ -20,7 +20,5 @@
 
 5. Install the **VS2017 redistribution package**. If you use a 64-bit OS, install **VC_redist.x64.exe**.
 
-6. Copy the **EvidentViewer** folder from the **EvidentViewer-package** folder to the **plugins** folder of your ImageJ directory.
-- If the **plugins** folder already contains an **EvidentViewer** folder, delete the existing folder before copying.
-
-![enter image description here](https://raw.githubusercontent.com/evident-imagejplugin/evident-viewer-guide/refs/heads/main/EvidentViewer_Installation_Guide_win_pic_3.png)
+6. Copy the **EvidentViewer-VerLatest** folder from the **EvidentViewer-package** folder to the **plugins** folder of your ImageJ directory.
+- If the **plugins** folder already contains an **OlympusViewer** folder, delete the existing folder before copying.
