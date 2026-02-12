@@ -3,14 +3,14 @@
 
 ## How to Install
 
-1. Download the **EVIDENTViewer-mac2.6.1.zip**.
+1. Download the **EVIDENTViewer-mac2.6.3.zip**.
 
 2. Extract the zip file.
 
 3. Open a terminal window and navigate to the directory where you extracted it.
 
    ```bash
-   cd < the path to the folder EVIDENTViewer-mac2.6.1 >
+   cd < the path to the folder EVIDENTViewer-mac2.6.3 >
    ```
 
 4. Assign execute permission to the installer:
